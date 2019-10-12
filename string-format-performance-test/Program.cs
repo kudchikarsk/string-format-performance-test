@@ -11,10 +11,10 @@ namespace string_format_performance_test
     {
 
         const int LOOP_SIZE = 10000;
-        const string firstName = "Dustin";
-        const string lastName = "Campbell";
+        const string firstName = "Shadman";
+        const string lastName = "Kudchikar";
         const int id = 1;
-        const string department = "IDE Tools Team";
+        const string department = ".NET Team";
 
         static void PerformanceTest1()
         {
