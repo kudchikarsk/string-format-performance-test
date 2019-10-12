@@ -1,12 +1,4 @@
----
-title: C# String.Format() and StringBuilder
-description: A complete collection of c# pattern programs. This article explains the list of star pattern programs in c# programming language.
-image: "/images/star-pattern/cover.jpg"
-date: Sat Oct 12 17:56:37 2019
-last_modified_at: Sat Oct 12 17:56:39 2019
-categories: [C#]
-comments: false
----
+##  C# String.Format() and StringBuilder
 
 
 Recently, I saw some code that looked something like this:
